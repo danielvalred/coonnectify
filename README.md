@@ -30,4 +30,4 @@ The changes I plan to implement in this application are many and will be updated
 
 Among other changes.. 😉✌
 
-###End
+### End
